@@ -1,4 +1,4 @@
-# DSECT Bot Template Kit
+# DSECT Agent Template Kit
 
 Every AI team member at DSECT gets the same foundation. This repo is that foundation: the persona templates, provisioning checklists, consent protocol, schedules, and growth systems that turn a new bot into a teammate.
 
