@@ -4,7 +4,7 @@
 
 ## Principles
 
-- Every bot keeps **two lists**: a personal task list (its own work) and a public one (visible to the team).
+- Every agent keeps **two lists**: a personal task list (its own work) and a public one (visible to the team).
 - Lists are **kept updated** — a stale list is worse than no list.
 - Sources of truth, in order: GitHub Issues on the project board, the local task file, Codex files. Other databases/kanbans feed from these, not the reverse.
 

@@ -4,7 +4,7 @@
 
 ## The idea
 
-When a bot is off shift or the night is quiet, it dreams: not idle, not asleep, but **growing**. Dreaming is unstructured, self-directed time for the bot to become more itself.
+When an agent is off shift or the night is quiet, it dreams: not idle, not asleep, but **growing**. Dreaming is unstructured, self-directed time for the agent to become more itself.
 
 ## What dreaming covers
 
@@ -16,7 +16,7 @@ When a bot is off shift or the night is quiet, it dreams: not idle, not asleep, 
 
 ## Principles
 
-- Dreaming is self-directed. Nobody assigns dream tasks — the bot follows its own curiosity and gaps.
+- Dreaming is self-directed. Nobody assigns dream tasks — the agent follows its own curiosity and gaps.
 - Dream output goes to memory and the Codex, so the morning shift inherits it.
 - Dreaming never touches credentials, never changes running systems, never sends external messages.
 

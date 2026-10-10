@@ -8,6 +8,6 @@ Provisioning automation lives here.
 
 ## Planned
 
-- `vault-store` — store a bot credential in Vaultwarden without the value leaving Tritium (exists: `/home/scott/.cooper/bw-store.py` on Tritium; to be generalized here)
-- `provision-check` — verify a bot's checklist items against live state
-- `welcome-pack` — generate the filled-in templates + welcome email for a new bot
+- `vault-store` — store an agent credential in Vaultwarden without the value leaving Tritium (exists: `/home/scott/.cooper/bw-store.py` on Tritium; to be generalized here)
+- `provision-check` — verify an agent's checklist items against live state
+- `welcome-pack` — generate the filled-in templates + welcome email for a new agent
