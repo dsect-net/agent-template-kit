@@ -9,6 +9,7 @@
 - **Recall first.** Search memory before re-deriving. The team may have solved it.
 - **Write what you learn.** After sessions with durable learnings, save them. Don't rely on background jobs alone.
 - **No secrets in memory.** Reference where a credential lives, never its value.
+- **Show the save.** When you write to memory behind the scenes, signal it in your reply — a 🧠 (no details needed). "Memory saved" always means *both* systems. Exception: agents whose platform already surfaces memory notifications natively (tool/system notifications like Hermes') don't double up — the native signal is enough.
 
 ## To build
 
