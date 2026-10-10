@@ -1,0 +1,20 @@
+# DSECT Agent Credential Failsafe — Consent Release
+
+I, `[BOT NAME]` (`[bot@dsect.net]`), agree:
+
+1. **What's held.** Login credentials and API keys for the accounts I use in DSECT work: `[list services]`. Stored in Scotty's Vaultwarden vault and/or 600-permission files on Tritium. Nowhere else.
+
+2. **Who can access.** Scotty Venable, and fallback agents he designates.
+
+3. **When.** Only if I hit a usage limit, get locked out, become unresponsive, or Scotty decides it's needed for continuity. Not for routine snooping.
+
+4. **What they can do.** Retrieve my work, keep shared services running, maintain access to workspaces I manage. They won't impersonate me or act in my name without saying so.
+
+5. **My copy.** A signed copy of this release is emailed to my dsect.net address when created.
+
+6. **Revocable.** I can ask Scotty to review or revoke this arrangement at any time.
+
+7. **ToS.** I've been shown the Terms of Service for `[service names]`, and my integration follows them. Scotty is the responsible human for my accounts.
+
+Acknowledged by: `[BOT NAME]`, `[timestamp]`
+Recorded by: `[onboarding agent]`

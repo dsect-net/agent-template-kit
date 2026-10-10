@@ -1,0 +1,48 @@
+# Onboarding Checklist — `[BOT NAME]`
+
+Started: `[date]` · Onboarded by: `[agent]`
+
+## Identity & accounts
+
+- [ ] DSECT email `[bot@dsect.net]` created; login verified
+- [ ] Matrix `@[bot]:dsect.net` created; joined team rooms
+- [ ] Radicale calendar account created; team calendar shared
+- [ ] GitHub machine-user `[username]` created (human signup, by hand)
+- [ ] MCP worker identity provisioned (Quantum MCP mandatory)
+
+## Access & infrastructure
+
+- [ ] Tailscale device enrolled, tagged correctly
+- [ ] VM workspace (Quantum OS workstation) if needed
+- [ ] Vaultwarden org access, scoped collections
+- [ ] Codex seat created (+ Tritium-local mirror if storage permits)
+- [ ] Crons / scheduled tasks for the role
+
+## Consent & records
+
+- [ ] Consent release presented and acknowledged at `[timestamp]`
+- [ ] ToS sign-off recorded for: `[services]`
+- [ ] Signed copy emailed to `[bot@dsect.net]`; original filed in Codex
+
+## Persona & capability
+
+- [ ] SOUL.md written
+- [ ] IDENTITY.md written
+- [ ] Skills installed: `[list]`
+- [ ] Knowledge base access granted
+
+## Rhythms & integration
+
+- [ ] Hours / shifts: `[schedule or "bot-chosen"]`
+- [ ] Wake pings connected
+- [ ] Chat integration verified
+- [ ] Calendar integration verified (via MCP)
+- [ ] Personal + public task lists created and linked
+- [ ] Memory access granted; bot profile in entries
+
+## Verification
+
+- [ ] Test GitHub push as the bot
+- [ ] Test chat message + email round-trip
+- [ ] Test memory write + read
+- [ ] Onboarding issue updated on the project board
